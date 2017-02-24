@@ -1,0 +1,123 @@
+<?xml version="1.0"?>
+<carlist>
+   <car id="0000">
+      <make>Mazda</make>
+      <model>787B</model>
+      <type>MR</type>
+      <price>1000000</price>
+      <minyear>1990</minyear>
+	  <maxyear>1991</maxyear>
+      <topspeed>210</topspeed>
+   </car>
+   
+      <car id="0000">
+      <make>Mazda</make>
+      <model>Atenza GJ1</model>
+      <type>FF</type>
+      <price>20000</price>
+      <minyear>2012</minyear>
+	  <maxyear>2017</maxyear>
+      <topspeed>140</topspeed>
+   </car>
+   
+   <car id="0000">
+      <make>Mazda</make>
+      <model>Cosmo JC</model>
+      <type>FR</type>
+      <price>18000</price>
+      <minyear>1990</minyear>
+	  <maxyear>1996</maxyear>
+      <topspeed>155</topspeed>
+   </car>
+   
+   <car id="0000">
+      <make>Mazda</make>
+      <model>Cosmo L10A</model>
+      <type>FR</type>
+      <price>200000</price>
+      <minyear>1967</minyear>
+	  <maxyear>1972</maxyear>
+      <topspeed>130</topspeed>
+   </car>
+   
+   <car id="0000">
+      <make>Mazda</make>
+      <model>Furai</model>
+      <type>MR</type>
+      <price>1000000</price>
+      <minyear>2011</minyear>
+	  <maxyear>2011</maxyear>
+      <topspeed>211</topspeed>
+   </car>   
+   
+   <car id="0000">
+      <make>Mazda</make>
+      <model>Miata NA</model>
+      <type>FR</type>
+      <price>9000</price>
+      <minyear>1989</minyear>
+	  <maxyear>1997</maxyear>
+      <topspeed>120</topspeed>
+   </car>
+   
+      <car id="0000">
+      <make>Mazda</make>
+      <model>Miata NB</model>
+      <type>FR</type>
+      <price>11000</price>
+      <minyear>1998</minyear>
+	  <maxyear>2005</maxyear>
+      <topspeed>120</topspeed>
+   </car>
+   
+      <car id="0000">
+      <make>Mazda</make>
+      <model>Miata NC</model>
+      <type>FR</type>
+      <price>14000</price>
+      <minyear>2005</minyear>
+	  <maxyear>2015</maxyear>
+      <topspeed>130</topspeed>
+   </car>
+   
+      <car id="0000">
+      <make>Mazda</make>
+      <model>Miata ND</model>
+      <type>FR</type>
+      <price>18000</price>
+      <minyear>2015</minyear>
+	  <maxyear>2017</maxyear>
+      <topspeed>133</topspeed>
+   </car>
+   
+   <car id="0000">
+      <make>Mazda</make>
+      <model>RX-7 FD3S</model>
+      <type>FR</type>
+      <price>18000</price>
+      <minyear>1991</minyear>
+	  <maxyear>1997</maxyear>
+      <topspeed>155</topspeed>
+   </car>
+   
+   <car id="0000">
+      <make>Mazda</make>
+      <model>RX-7 FD3S</model>
+      <type>FR</type>
+      <price>18000</price>
+      <minyear>1991</minyear>
+	  <maxyear>1997</maxyear>
+      <topspeed>155</topspeed>
+   </car>
+   
+   <car id="0000">
+      <make>Mazda</make>
+      <model>RX-7 FD3S</model>
+      <type>FR</type>
+      <price>18000</price>
+      <minyear>1991</minyear>
+	  <maxyear>1997</maxyear>
+      <topspeed>155</topspeed>
+   </car>
+   
+</carlist>
